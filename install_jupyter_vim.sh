@@ -23,7 +23,5 @@ git clone https://github.com/lambdalisue/jupyter-vim-binding vim_binding
 chmod -R go-w vim_binding
 
 # Done
-echo "Done. Visit root/nbextensions (likely http://localhost:8888/nbextensions/ and activate the VIM binding extensions."
-
-
+echo "Done. Visit root/nbextensions (likely http://localhost:8888/nbextensions/) and activate the VIM binding extensions."
 
