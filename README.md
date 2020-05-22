@@ -3,9 +3,12 @@ Run this script to install VIM keybindings for your Jupyter Notebook
 
 ## Installation
 
-Once you've cloned the repo, run anywhere
+Once you've cloned the repo, run in the directory with script:
 ```bash
+# Make the script executable
 chmod +x install_jupyter_script.sh
+# run the script
+./install_jupyter_script.sh
 ```
 
 ## Usage
